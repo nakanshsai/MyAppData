@@ -7,8 +7,8 @@ public void getName(){
 
 
 public void setName(){
-this.name =name;
-}
 
-	
+
+System.out.println("bookid is set");
+}
 }
